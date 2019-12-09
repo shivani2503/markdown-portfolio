@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+- Favorite Books
+  - Nancy Drew
+  - Champak
+  - Chacha Choudhary
+  - Bal Bhaskar
+- Favorite food places
+  - Chipotle
+  - Dominos
+  - Saffron
