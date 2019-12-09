@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# **Hi I am Shivani Singh**
+## _I am a BSU student_
+### __Thats all about me__
